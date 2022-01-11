@@ -2,7 +2,7 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 
-const nuevaString = "hola como estas???"
+const nuevaString = null
 
 const nuevaString = null
 
